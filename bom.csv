@@ -1,0 +1,5 @@
+Item,LCSC Part #,Manufacturer,Manufacturer Part Number,Description,Package,Min Qty,Unit Price (USD) @ Min Qty,Link
+1,C70377,QIJEY,CR2032-BS-6-1,CR2032 Coin Cell Battery Holder (SMD),SMD,5,0.1380,https://www.lcsc.com/product-detail/C70377.html
+2,C614832,MICROCHIP,ATTINY1614-SSN,tinyAVR 1-series Microcontroller (16KB Flash 8-bit AVR),SOIC-14,1,2.5972,https://www.lcsc.com/product-detail/C614832.html
+3,C113159,muRata,PKLCS1212E4001-R1,Piezoelectric Sounder / Buzzer (Passive, 4kHz),SMD 12x12mm,1,1.3338,https://www.lcsc.com/product-detail/C113159.html
+4,C231329,OMRON,B3U-1000P,Tactile Switch SPST 1.53N (SMD),SMD 3x2.5mm,5,0.1783,https://www.lcsc.com/product-detail/C231329.html
